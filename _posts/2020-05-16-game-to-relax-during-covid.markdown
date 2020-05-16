@@ -9,7 +9,7 @@ Does the thought of going out scare you with all the pandemic news? Play this si
 <meta name="description" content="{{ post.excerpt }}"/>
 
 Play the game [here][covid-game]!
-![covid game](/assets/images/covid_game.png)
+![covid game](/assets/images/covid_game.PNG)
 
 [covid-game]: http://epidemic.tarshar.com/
 [p5js]: https://p5js.org/

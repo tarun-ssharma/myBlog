@@ -21,7 +21,7 @@ Have something you want to share with the world? Follow these 7 quick and easy s
 	* Download [git bash][git-bash]
 	* [Install jekyll using rubyinstaller][install-jekyll]
 		* **Note:** While performing *ridk install* step, it asks for components which should be installed:
-		![ruby installer message](/assets/images/ruby-installer-message.png)
+		![ruby installer message](/assets/images/ruby-installer-message.PNG)
 		Make sure to select all three, one by one. If not, you might encounter the following error in later stages of installation: [Failed to build gem native extension][error]
 
 5. Use jekyll to create site related files in your local *new_repo* folder:
