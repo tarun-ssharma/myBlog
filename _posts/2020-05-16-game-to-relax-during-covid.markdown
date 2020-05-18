@@ -11,5 +11,5 @@ Does the thought of going out scare you with all the pandemic news? What if you 
 Play the game [here][covid-game] and de-stress some!
 ![covid game](/assets/images/covid_game.PNG)
 
-[covid-game]: http://epidemic.tarshar.com/
+[covid-game]: https://epidemic.tarshar.com/
 [p5js]: https://p5js.org/

@@ -25,7 +25,7 @@ Turns out, there definitely is a way to build your very own free github website.
 2. Setting up a github repository to serve as the base for your github personal website:
 	* Create a new repository with your github account, say *new_repo*
 	* (**Optional but recommended**) [Create a new branch][create-branch] from the *master* branch for *new_repo*, named *gh-pages*. Make *gh-pages* [the default branch][default-branch] for this repo.
-	* (**Optional**) Go to *Settings>Options>GitHub Pages* section on the repo page. There you'll see the *Source* branch (*gh-pages*) which will be used to built the github website associated with this repo. Also, you'll see the *Custom Domain* which you can set to your own custom subdomain, using [this guide][custom-domain-guide]. If you don't set any custom domain, your github pages website will be hosted at **https://*username*.github.io/*new_repo*/**
+	* (**Optional**) Go to *Settings>Options>GitHub Pages* section on the repo page. There you'll see the *Source* branch (*gh-pages*) which will be used to built the github website associated with this repo. Also, you'll see the *Custom Domain* which you can set to your own custom subdomain, using [this guide][custom-domain-guide]. If you don't set any custom domain, your github pages website will be hosted at **https://*username*.github.io/*new_repo*/**. Don't forget to enable the *Enforce HTTPS* checkbox, since [having https matters][https-matters].
 
 3. Clone *new_repo* to your local machine to include site related files.
 
@@ -112,6 +112,7 @@ Turns out, there definitely is a way to build your very own free github website.
 * [Blunder official docs][blunder-docs]
 
 
+[https-matters]: https://web.dev/why-https-matters/
 [bluehost]: https://www.bluehost.com/web-hosting/signup
 [cms]: https://en.wikipedia.org/wiki/Content_management_system
 [yaml]: https://rollout.io/blog/yaml-tutorial-everything-you-need-get-started/
