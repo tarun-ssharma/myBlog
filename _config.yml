@@ -18,10 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Some tips from an apprehensive creator
+title: Succinct tidbits from a major league procrastinator
 email: 1starun8@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Random useful tidbits on maths, programming and other interesting fields.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: shy_wanderer
@@ -62,7 +61,7 @@ analytics:
 author:
   name     : "Tarun Sharma"
   avatar   : "/assets/images/bio-photo.jpg"
-  bio      : "Developer. Math enthusiast."
+  bio      : "NBA enthusiast. Likes riddles and programming in leisure time. Aw Jeez Rick, I really hope I can help out fellow earthians and make you proud, you know?!"
   location : "Delhi, India"
   links:
     - label: "Email"
